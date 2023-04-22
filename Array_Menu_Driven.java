@@ -98,10 +98,10 @@ Scanner sc = new Scanner(System.in);
 			break;
 			
 			case 7:
-				System.out.println("Exit ! Thank You !");
+				System.out.println("Exit ! Thank You ...... !");
 			break;
 			default :
-				System.out.println("Invalid Choice !");
+				System.out.println("Invalid Choice....");
 			break;
 		}//switch
 		} while(choice !=7 ); 
