@@ -35,7 +35,7 @@ public class ArrayEmp {
 	public String toString() {
 		return "Empid="+empid+" "+"Ename="+ename+" "+"City="+city+" "+"BasicSal="+basicsal;
 	}
-	public double computesal() {
+	public double computeSal() {
 		return 0;
 		
 	}
