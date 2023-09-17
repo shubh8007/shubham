@@ -32,12 +32,14 @@ public class ArrayEmp {
 	public double getBasicsal() {
 		return basicsal;
 	}
-	public String toString() {
-		return "Empid="+empid+" "+"Ename="+ename+" "+"City="+city+" "+"BasicSal="+basicsal;
-	}
+
 	public double computeSal() {
 		return 0;
 		
 	}
+	public String toString() {
+		return "Empid="+empid+" "+"Ename="+ename+" "+"City="+city+" "+"BasicSal="+basicsal;
+	}
+	
 
 }
